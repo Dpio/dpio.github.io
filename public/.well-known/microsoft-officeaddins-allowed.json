@@ -1,0 +1,12 @@
+{
+  "allowed": [
+    "https://dpio.github.io/outlook-addin-repros/02b-partial-list-on-send/launchevents.js",
+    "https://dpio.github.io/outlook-addin-repros/04-classic-event-callback-loss/launchevents.js",
+    "https://dpio.github.io/outlook-addin-repros/05-classic-event-runtime-surface/launchevents.js",
+    "https://dpio.github.io/outlook-addin-repros/06-classic-associate-then-throw/launchevents.control.js",
+    "https://dpio.github.io/outlook-addin-repros/06-classic-associate-then-throw/launchevents.throw-after-associate.js",
+    "https://dpio.github.io/outlook-addin-repros/06-classic-associate-then-throw/launchevents.throw-in-timer.js",
+    "https://dpio.github.io/outlook-addin-repros/06-classic-associate-then-throw/launchevents.throw-before-associate.js",
+    "https://dpio.github.io/outlook-addin-repros/20-taskpane-runtime-count/launchevents.js"
+  ]
+}
